@@ -9,28 +9,28 @@ int main()
 
     switch(da)
     {
-        case'1':
-          printf("it is Sunday");
+        case 1:
+          printf("it is monday");// use single code only for char. not int
           break;
 
-        case'2':
-          printf("it is Monday");
+        case 2:
+          printf("it is tuesday");
           break;
 
-        case'3':
-          printf("it is Tuesday");
+        case 3:
+          printf("it is wednesday");
           break;
-        case '4':
-          printf("it is Wednesday");
+        case 4:
+          printf("it is thursday");
           break;
-        case '5':
-          printf("it is Thursday");
+        case 5:
+          printf("it is friday");
           break;
 
-        case '6':
-          printf("it is sunday");
+        case 6:
+          printf("it is saturday");
           break;
-        case '7':
+        case 7:
           printf("it is sunday");
           break;
 
